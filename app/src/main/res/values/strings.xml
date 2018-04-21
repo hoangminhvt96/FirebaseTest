@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseTest</string>
+    <array name="city">
+        <item>Hồ Chí Minh</item>
+        <item>Hà Nội</item>
+        <item>Hải Phòng</item>
+        <item>Vũng Tàu</item>
+        <item>Đà Lạt</item>
+    </array>
+</resources>
